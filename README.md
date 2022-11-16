@@ -6,6 +6,15 @@
 - 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University Palangka Raya</a>
 - 📚 I’m Web Developer Student at <a href="https://www.gamelab.id/">Gamelab Indonesia<a/>
 - 🌱 I’m currently learning about <strong>Front End Web Dev</strong>
+
+## Education:
+
+#### 1. [University Palangka Raya](https://www.upr.ac.id/) | Bachelor of Informatic Engineering | Palangka Raya `2020-Now`
+   - Asistant Laboratorium 
+   - Member committee SAKTI
+
+ #### 2. [SMA Kristen Palangka Raya](https://smakristenpry.sch.id/) | MIPA | Palangka Raya `2017-2020`
+   - Committee Basketball
 <!-- - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong>Pyhton, Pascal, Data Structures in C++,Java, Html, CSS, Sass, JavaScript, Jquery, Bootstrap, php,  Graphic Designing (Figma, Photoshop, canva),</strong> -->
 <!-- - ⚡ Fun fact: I can talk 24/7 about Basketball. -->
@@ -53,8 +62,8 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichoAlbertTio&theme=radical)-->
 ## Top Langs 👅
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichoAlbertTio&langs_count=10&theme=tokyonight&layout=compact)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichoAlbertTio&langs_count=10&theme=tokyonight&layout=compact)
 
 <br>
-
+ 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p> -->
