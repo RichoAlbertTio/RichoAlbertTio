@@ -17,7 +17,7 @@
 <a  href="https://www.instagram.com/richo_albert_tio/">
 <img src="https://img.shields.io/badge/richo_albert_tio-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<br>
+
 <a href="https://www.linkedin.com/in/richo-albert-tio/">
 <img src="https://img.shields.io/badge/Richo Albert Tio-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
