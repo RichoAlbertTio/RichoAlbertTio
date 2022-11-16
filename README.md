@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [University Palangka Raya](https://www.upr.ac.id/) | Bachelor of Informatic Engineering | Palangka Raya `2020-Now`
+#### 1. [University Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-Now`
    - Asistant Laboratorium 
    - Member committee SAKTI
 
