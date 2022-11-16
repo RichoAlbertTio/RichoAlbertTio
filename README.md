@@ -1,13 +1,13 @@
 <h2> Hi, I'm Richo Albert Tio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
 
-## About Me
+## About Me :
 
 - 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University Palangka Raya</a>
 - 📚 I’m Web Developer Student at <a href="https://www.gamelab.id/">Gamelab Indonesia<a/>
 - 🌱 I’m currently learning about <strong>Front End Web Dev</strong>
 
-## Education:
+## Education :
 
 #### 1. [University Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-Now`
    - Asistant Laboratorium 
