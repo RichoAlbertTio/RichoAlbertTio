@@ -6,9 +6,9 @@
 - 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University Palangka Raya</a>
 - 📚 I’m Web Developer Student at <a href="https://www.gamelab.id/">Gamelab Indonesia<a/>
 - 🌱 I’m currently learning about <strong>Front End Web Dev</strong>
-
+<img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230"> 
+   
 ## Education :
-
 #### 1. [University Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-Now`
    - Asistant Laboratorium 
    - Member committee SAKTI
@@ -20,6 +20,7 @@
 <!-- - ⚡ Fun fact: I can talk 24/7 about Basketball. -->
 <!-- <p><em>Informatics Engineering Student at <a href="https://www.upr.ac.id/">University Palangka Raya</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p> -->
+
 
 ## How to reach me :
 <img src="https://img.shields.io/badge/richo16at2002@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="richo16at2002@gmail.com">
