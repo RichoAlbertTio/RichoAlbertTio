@@ -13,7 +13,7 @@
    - Asistant Laboratorium 
    - Member committee SAKTI
 
- #### 2. [Christian High School Palangka Raya](https://smakristenpry.sch.id/) | MIPA | Palangka Raya `2017-2020`
+ #### 2. [Christian High School Palangka Raya](https://smakristenpry.sch.id/) | MIPA(Sains) | Palangka Raya `2017-2020`
    - Committee Basketball
 <!-- - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong>Pyhton, Pascal, Data Structures in C++,Java, Html, CSS, Sass, JavaScript, Jquery, Bootstrap, php,  Graphic Designing (Figma, Photoshop, canva),</strong> -->
