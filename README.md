@@ -1,6 +1,9 @@
-<h2> Hi, I'm Richo Albert Tio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
 
+<h1 align="center">Hi, I'm Richo Albert Tio!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></h1>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student;Class+Of+2020;Enthusiastic+About+New+Things&center=true&width=500&height=50"></a>
+</p>
+<img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
 ## About Me :
 
 - 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University Palangka Raya</a>
