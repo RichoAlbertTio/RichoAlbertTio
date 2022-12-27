@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student;Class+Of+2020;Enthusiastic+About+New+Things&center=true&width=500&height=50"></a>
 </p>
 <img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
-# About Me :
+## About Me :
 
 - 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University Palangka Raya</a>
 - 📚 I’m Web Developer Student at <a href="https://www.gamelab.id/">Gamelab Indonesia<a/>
