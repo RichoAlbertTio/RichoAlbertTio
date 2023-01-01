@@ -3,11 +3,7 @@
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student;Class+Of+2020;Enthusiastic+About+New+Things&center=true&width=500&height=50"></a>
 </p>
-<div align="center">
-  <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 <img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
 
 # About Me :
