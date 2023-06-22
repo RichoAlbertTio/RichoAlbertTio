@@ -27,7 +27,9 @@
 
 
 ## How to reach me :
-<img src="https://img.shields.io/badge/richo16at2002@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="richo16at2002@gmail.com">
+<a href="richo16at2002@gmail.com">
+<img src="https://img.shields.io/badge/richo16at2002@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <a  href="https://www.instagram.com/richo_albert_tio/">
 <img src="https://img.shields.io/badge/richo_albert_tio-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -38,9 +40,6 @@
 <a href="https://github.com/RichoAlbertTio/">
 <img src="https://img.shields.io/badge/Richo Albert Tio-000000.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
-<!-- 
-[![Linkedin: Royan Farid](https://img.shields.io/badge/-richo-albert-tio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richo-albert-tio/)](https://www.linkedin.com/in/richo-albert-tio/)
-[![GitHub RichoAlbertTio](https://img.shields.io/github/followers/RichoAlbertTio?label=follow&style=social)](https://github.com/RichoAlbertTio) -->
 
 <br>
 
