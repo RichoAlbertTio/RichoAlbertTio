@@ -60,14 +60,13 @@
 <br>
 
 ## Profile Stats 🎹
-![Richo github stats](https://github-readme-stats.vercel.app/api?username=RichoAlbertTio&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
+![Richo github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=RichoAlbertTio&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 <br>
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichoAlbertTio&theme=radical)-->
 ## Top Langs 👅
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichoAlbertTio&langs_count=10&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RichoAlbertTio&layout=compact&langs_count=8&theme=tokyonight)
 
 <br> 
  
