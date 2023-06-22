@@ -59,15 +59,12 @@
 
 <br>
 
-## Profile Stats 🎹
-![Richo github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=RichoAlbertTio&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+## Profile Stats 🎹                                                                  
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RichoAlbertTio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
 <br>
 
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichoAlbertTio&theme=radical)-->
 ## Top Langs 👅
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RichoAlbertTio&layout=compact&langs_count=8&theme=tokyonight)
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RichoAlbertTio&layout=compact&langs_count=8&theme=tokyonight"/>
 <br> 
  
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p> -->
