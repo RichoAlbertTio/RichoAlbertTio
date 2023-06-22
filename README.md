@@ -69,6 +69,6 @@
 ## Top Langs 👅
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichoAlbertTio&langs_count=10&theme=tokyonight&layout=compact)
 
-<br> <br>
+<br> 
  
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p> -->
