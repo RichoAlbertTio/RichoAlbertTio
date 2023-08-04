@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi, I'm Richo Albert Tio : ) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></h1>
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student;Class+Of+2020;Enthusiastic+About+New+Things&center=true&width=500&height=50"></a>
-</p>
+
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 
 <img align='right' src="https://www.gamelab.id/img/logo-gamelab-187x51.png?v=3.10?v=3.1?v=1.1" width="230">
 
@@ -27,25 +29,22 @@
 
 
 ## How to reach me :
-<a href="richo16at2002@gmail.com">
-<img src="https://img.shields.io/badge/richo16at2002@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a  href="https://www.instagram.com/richo_albert_tio/">
-<img src="https://img.shields.io/badge/richo_albert_tio-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 
-<a href="https://www.linkedin.com/in/richo-albert-tio/">
-<img src="https://img.shields.io/badge/Richo Albert Tio-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>
-<a href="https://github.com/RichoAlbertTio/">
-<img src="https://img.shields.io/badge/Richo Albert Tio-000000.svg?&style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://www.linkedin.com/in/richo-albert-tio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/richo_albert_tio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axelb2310" height="30" width="40" /></a>
+<a style="background-color:white;" href="[https://www.linkedin.com/in/richo-albert-tio/](https://github.com/RichoAlbertTio/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="logo" height="30" width="40" /></a>
 
 <br>
 
-## Tools I work upon 🛠
-<img src="http://img.shields.io/badge/-++-yellow?style=for-the-badge&logo=C&logoColor=white"> <img src="http://img.shields.io/badge/-Pascal-blue?style=for-the-badge&logo=Pascal&logoColor=blue"> <img src="http://img.shields.io/badge/-Sass-%23E4405F?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-figma-purple?style=for-the-badge&logo=Figma&logoColor=blue">  <img src="http://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=blue">
+## Language and Tools! 🛠
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt=" logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt=" logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="logo"  />
+  
+</div>
 
 <br>
 
