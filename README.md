@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Richo Albert Tio : ) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></h1>
-  <p align="center">
+  <p align="left">
 
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
