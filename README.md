@@ -41,7 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt=" logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="logo"  />
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" width="42" alt="logo"  />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" width="42" alt="logo"  />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="30" width="42" alt="logo"  />
   
 </div>
 
