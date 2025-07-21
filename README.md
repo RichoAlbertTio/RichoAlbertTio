@@ -121,14 +121,23 @@
 
 ---
 
-## 🔥 Recent Projects
+## 🔥 Featured Projects
 
 <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichoAlbertTio&repo=your-project-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/RichoAlbertTio/your-project-name)
-  
-  <!-- Add more repository cards as needed -->
-  
+
+### 🚀 Coming Soon!
+*Currently working on exciting projects that will be showcased here soon.*
+
+<!-- Once you have repositories, replace this section with:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichoAlbertTio&repo=ACTUAL-REPO-NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/RichoAlbertTio/ACTUAL-REPO-NAME)
+-->
+
+**💡 Project Ideas I'm Working On:**
+- 🌐 Personal Portfolio Website
+- 📱 Responsive Web Applications
+- 🎨 CSS Animation Experiments
+- 🔧 JavaScript Utility Libraries
+
 </div>
 
 ---
