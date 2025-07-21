@@ -37,7 +37,7 @@
 <div align="left">
 
 ### 🏛️ [University Palangka Raya](https://www.upr.ac.id/) 
-**Informatics Engineering** | *2020 - Present* | 📍 Palangka Raya
+**Informatics Engineering** | *2020 - 2025* | 📍 Palangka Raya
 - 🔬 **Laboratory Assistant** - Helping students with programming fundamentals
 - 👥 **SAKTI Committee Member** - Organizing tech events and workshops
 
